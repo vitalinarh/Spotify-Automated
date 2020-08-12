@@ -1,0 +1,2 @@
+spotify_token = 'BQAnNYyv8dlr2L39Uy9hBSj69wLhYbLNj9GDOqsy2ph6akLXcmXyAMgFVKJCP8TfvLgpdFGUZliur0qBuSOpMSm5El6j3wn0bavJ2NcU3mNzrDSpIKjMYMV26XN6rvxzt2omCARZPXk6ratHf-3nC4FAaQrn2F84c1HaZr6hraofbZrUDL0LO-OwA7brTmu0bj15CNguJg'
+spotify_user_id = 'humanreaper'
